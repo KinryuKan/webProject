@@ -18,7 +18,7 @@
 				</el-form>
 				<span class="float-right restPwd">忘记密码?</span>
 				<el-button type="primary" @click="login" class="w-100" 
-				size="large" color="#556deb" :loading="loginLoading">{{loginLoading ? '登录中...' : '登录'}}</el-button>
+				size="large" color="#556deb" :loading="loginLoading">{{loginLoading ? '登录中....' : '登录'}}</el-button>
 			</div>
 		</div>
 	</div>
